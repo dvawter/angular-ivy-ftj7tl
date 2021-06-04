@@ -1,0 +1,22 @@
+.flow_status_tile {
+  width: 300px;
+  height: 300px;
+  line-height: 30px;
+  background-color: white;
+  color: black;
+  border: 2px;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 5px 5px 5px 5px;
+  margin: 0px 5px 10px 5px;
+}
+
+table tr td{
+  border: 2px;
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+}
